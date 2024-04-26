@@ -1,0 +1,67 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7C5E99;
+    align-items: center;
+   border-bottom: 10px solid black;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+h1 {
+    font-family: "Jersey 10", sans-serif;
+    color: white;
+    font-size: 50px;
+    text-shadow: black 3px 3px;
+    border: 3px solid black;
+    border: 1px solid white;
+    padding: 5px;
+}
+nav {
+    text-align: end;
+    
+}
+
+a {
+    display: inline-flex;
+    align-items: center;
+    color: #FFF;
+    font-size: 20px;
+    font-family: "Fira Code", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}
+a::before { /*Criar a bolinha vermelha antes das ops skills, projetos e etc, sempre utilizar assim*/
+    content: "";
+    margin: 10px;
+    background: #F25A70;
+    width: 10px;
+    height: 10px;
+    vertical-align: mid;
+    
+
+
+}
+
+#button {
+    display: inline-block;
+    background-color: #F25A70;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 3px black;
+    margin-right: 0px;
+    transition: transform 300ms cubic-bezier(0.04, 0.27, 0, 1.72); /*Adiciona animação*/
+
+}
+#button:hover {
+    background-color: #f0465f;
+    font-weight: 700;
+    transform: scale(1.05);/*Adiciona animação*/
+  
+}
+
+
