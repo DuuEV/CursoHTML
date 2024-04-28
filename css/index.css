@@ -9,15 +9,7 @@ header {
    padding-top: 10px;
    padding-bottom: 10px;
 }
-h1 {
-    font-family: "Jersey 10", sans-serif;
-    color: white;
-    font-size: 50px;
-    text-shadow: black 3px 3px;
-    border: 3px solid black;
-    border: 1px solid white;
-    padding: 5px;
-}
+
 nav {
     text-align: end;
     
@@ -63,10 +55,6 @@ a::before { /*Criar a bolinha vermelha antes das ops skills, projetos e etc, sem
     transform: scale(1.05);/*Adiciona animação*/
   
 }
-#princ {
-padding-top: 220px;
-padding-left: 300px;
 
-}
 
 
