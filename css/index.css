@@ -63,5 +63,10 @@ a::before { /*Criar a bolinha vermelha antes das ops skills, projetos e etc, sem
     transform: scale(1.05);/*Adiciona animação*/
   
 }
+#princ {
+padding-top: 220px;
+padding-left: 300px;
+
+}
 
 
