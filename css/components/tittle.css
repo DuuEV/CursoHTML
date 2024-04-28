@@ -12,3 +12,10 @@ h1 {
     border: 1px solid white;
     padding: 5px;
 }
+h2 {
+    font-family: "Jersey 10", sans-serif;
+    color: #ffffff;
+    font-size: 50px;
+    text-shadow: black 3px 3px;
+    padding-left: 300px;
+}
