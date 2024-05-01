@@ -8,14 +8,14 @@
     border: 1px solid white;
     padding: 5px;
 }
-h1 {
+.title {
     font-family: "Jersey 10", sans-serif;
     color: #F25A70;
     font-size: 70px;
     text-shadow: black 3px 3px;
     text-align: center;
 }
-h2 {
+.subtitle {
     font-family: "Jersey 10", sans-serif;
     color: #ffffff;
     font-size: 70px;
