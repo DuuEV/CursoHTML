@@ -1,6 +1,5 @@
 .sectiontwo {
     box-sizing: content-box;
-    margin: none;
     background-image: url(../../assests/img/BANNER.jpg);
     height: 1070px;
     background-repeat: no-repeat;
@@ -17,10 +16,8 @@
 }
 .skilltec {
     display: flex;
+    
 
-}
-.imga {
-    margin-right: 5px;
 }
 .HTMLS {
     color: white;
@@ -29,4 +26,10 @@
     
 
 
+}
+.CSS1 {
+    color: white;
+    font-size: 50px;
+    font-family: "Jersey 10", sans-serif;
+    
 }

@@ -1,0 +1,9 @@
+.sec-2 {
+    display: flex;
+    font-size: 100px;
+    justify-content: space-between;
+    background-color: aqua;
+    height: 196px;
+    width: 500px;
+    box-shadow: 10px 10px 0px #000;
+}
